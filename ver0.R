@@ -6,7 +6,9 @@
 
 
 # COMMIT
-# step1: Tools -> version control -> commit (add your comment / descruiption of the adjustment)
+# step1: Tools -> version control -> select adjsuted files
+# step2: commit (add your comment / descruiption of the adjustment)
 
 # PUSH 
-# step1: Tools -> version control -> push (log in by username and password)
+# step1: Tools -> version control -> push (log in by username and password) 
+
