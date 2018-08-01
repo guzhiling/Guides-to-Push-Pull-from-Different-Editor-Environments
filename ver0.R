@@ -6,9 +6,10 @@
 
 
 # COMMIT
-# step1: Tools -> version control -> select adjsuted files
+# step1: Tools -> version control  (control +option +M) -> select adjsuted files
 # step2: commit (add your comment / descruiption of the adjustment)
 
 # PUSH 
 # step1: Tools -> version control -> push (log in by username and password) 
+#         OR  DIRECTLY SELECT PUSH BUTTON IN THE UPPER-RIGHT CORBERF AFTER COMMIT 
 
