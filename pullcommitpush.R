@@ -14,7 +14,7 @@
 #-----------------------------------------------------------------------
 # COMMIT
 # step1: Tools -> version control  (control +option +M) -> select adjsuted files
-# step2: commit (add your comment / descruiption of the adjustment)
+# step2: commit (add your comment / description of the adjustment)
 
 #-----------------------------------------------------------------------
 # PUSH 
