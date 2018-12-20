@@ -1,0 +1,18 @@
+# tutorial video url: https://www.youtube.com/watch?v=9tGb9FK6zVM
+
+# this is a trial to push and pull of files using pycharm
+
+
+
+# CLONE/ PULL : COPY FROM EXISTING PROJECT
+# step1: install git plugin in preferences ->plugin
+# step2: create token/ login by password in preferences -> version control
+# step3: VCS -> checkout from version control -> git -> log in by token or password
+
+
+# COMMIT: MAKE ADJUSTMENTS TO THE REPOSITORY
+# step1: VCS -> commit
+
+# PUSH: PUBLISH CURRENT PROJECT (AFTER COMMITS) TO REPOSITORY
+# step1: VCS ->   (1) import into version control -> share projects on github
+#                 (2) VCS OPERATIONS POPUP  ->  push commits
